@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#CAAAE0"
+    android:background="@drawable/fv"
     tools:context=".MainActivity">
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="185dp"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="#2870A0"
         android:text="Inicio"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
